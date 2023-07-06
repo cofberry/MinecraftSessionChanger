@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mushroom",
+  "name": "pro",
+  "description": "proest mod",
+  "version": "2.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["me"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
