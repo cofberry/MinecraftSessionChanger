@@ -4,7 +4,7 @@ A simple Minecraft Forge mod that allows logging in to other people's accounts u
 
 
 **Download:**
-Setup and build yourself: Follow [1.8.9ForgeTemplate](https://github.com/DxxxxY/1.8.9ForgeTemplate) setup & build instructions or download from [Releases](https://github.com/DxxxxY/TokenAuth/releases) and drag that into your mod folder.
+Setup and build yourself: Follow [1.8.9 ForgeTemplate](https://github.com/DxxxxY/1.8.9ForgeTemplate) setup & build instructions or download from [Releases](https://github.com/DxxxxY/TokenAuth/releases) and drag that into your mod folder.
 
 Features
 - Login into an account with a username:uuid:token combo.
