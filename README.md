@@ -1,5 +1,3 @@
-<div align="center">
-
 # TokenAuth
 A simple Minecraft Forge mod that allows logging in to other people's accounts using a username:uuid:token combo.
 
