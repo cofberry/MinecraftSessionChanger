@@ -1,18 +1,22 @@
 # MinecraftSessionChanger
-A simple Minecraft Forge mod that allows logging in to other people's accounts using a username:uuid:token combo.
 
+A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft accounts using a Session ID.
 
+**Features:**
+- Login into an account with a Session ID 
+- Restore your original Session
+- Shows if the Session ID is valid and if the account is currently online on Hypixel
+- Error handling for invalid inputs
+- Allows you to change the username of the account you are logged in with (Also prevents you from accidentally changing the name of your main account)
+- Allows you to change the skin of the account you are logged in with using an url (e.g. http://assets.mojang.com/SkinTemplates/steve.png to change it to a steve skin)
+- Simple to use
 
 **Download:**
-Setup and build yourself: Follow [1.8.9 ForgeTemplate](https://github.com/DxxxxY/1.8.9ForgeTemplate) setup & build instructions or download from [Releases](https://github.com/cofberry/MinecraftSessionChanger/releases) and drag that into your mod folder.
+Setup and build yourself: Follow [1.8.9 ForgeTemplate](https://github.com/DxxxxY/1.8.9ForgeTemplate) instructions or download from [Releases](https://github.com/cofberry/MinecraftSessionChanger/releases) and drag that into your mod folder.
 
-Features
-- Login into an account with a username:uuid:token combo.
-- Restore your session to your original one (at launch time) with the click of a button.
-- Shows the status (user, uuid) next to the gui button in GuiMultiplayer.
-    
-Disclaimer
+**Important:**
+Session Validation as well as Name- & Skinchanging do NOT work with Pizza Client Session Protection enabled.
+
+**Disclaimer:**
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
 
-License
-GPLv3 © dxxxxy
