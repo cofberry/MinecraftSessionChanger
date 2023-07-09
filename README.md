@@ -1,6 +1,6 @@
 # MinecraftSessionChanger
 
-A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft accounts using a Session ID
+A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft accounts using a Session ID.
 
 **Features:**
 - Login into an account with a Session ID 
