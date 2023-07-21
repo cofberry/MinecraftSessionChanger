@@ -15,7 +15,7 @@ A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft
 Setup and build yourself: Follow [1.8.9 ForgeTemplate](https://github.com/DxxxxY/1.8.9ForgeTemplate) instructions or download from [Releases](https://github.com/cofberry/MinecraftSessionChanger/releases) and drag that into your mod folder.
 
 **Important:**
-Session Validation as well as Name- & Skinchanging do NOT work with Pizza Client Session Protection enabled.
+Session Validation as well as Name & Skinchanging do NOT work with Pizza Client Session Protection enabled.
 
 **Disclaimer:**
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
