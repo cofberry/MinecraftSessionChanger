@@ -43,6 +43,7 @@ public class ChangerGUI extends GuiScreen {
         buttonList.add(new GuiButton(3300, sr.getScaledWidth() / 2 - 100, sr.getScaledHeight() / 2 + 50, 200, 20, "Back"));
         super.initGui();
     }
+    
     @Override
     public void onGuiClosed() {
         Keyboard.enableRepeatEvents(false);
